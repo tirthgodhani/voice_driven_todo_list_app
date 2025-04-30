@@ -5,10 +5,6 @@
 The Voice-Based Notes App is a Flutter project that allows users to create and manage notes using voice commands.
 This app leverages speech-to-text technology to convert spoken words into text notes, making it a convenient and efficient tool for capturing ideas and information on the go.
 
-## App Preview
-<div align="center">
-  <img src="/Preview/Notes_App_Preview.png" alt="Notes App" title="App Preview"/>
-</div>
 
 
 ## Features
