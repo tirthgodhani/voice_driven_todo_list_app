@@ -2,16 +2,40 @@
 
 ## Overview
 
-The Voice-Based Notes App is a Flutter project that allows users to create and manage notes using voice commands.
+The Voice-Based To-do App is a Flutter project that allows users to create and manage notes using voice commands.
 This app leverages speech-to-text technology to convert spoken words into text notes, making it a convenient and efficient tool for capturing ideas and information on the go.
 
-## Images
-![image](https://github.com/user-attachments/assets/c69113f8-954c-47fc-ae6a-8f33dca8dbd6)
-#Login Page
+## 📸 App Screenshots
 
-![image](https://github.com/user-attachments/assets/257dfd5e-a398-4049-8ce7-d42385001659)
--Home page
+### 🔐 Login Page
+![Login Page](https://github.com/user-attachments/assets/c69113f8-954c-47fc-ae6a-8f33dca8dbd6)
 
+---
+
+### 🏠 Home Page
+![Home Page](https://github.com/user-attachments/assets/a9e9ba04-d1d3-4f91-8950-dae495ae6669)
+
+---
+
+### ➕ Add Note Page
+![Add Note](https://github.com/user-attachments/assets/23e8dfe4-a39e-4bd2-b1af-4b6b9bc7dfcb)
+
+---
+
+### ⭐ Mark Important Work
+![Important Work](https://github.com/user-attachments/assets/a8652b15-04a8-4f7e-a356-55d5ea766aae)
+
+---
+
+### 🔑 User Authentication
+![Authentication](https://github.com/user-attachments/assets/0322d76b-e1b3-4224-ab6f-6ea9899aaea5)
+
+---
+
+### 🗃️ SQLite Integration
+![SQLite](https://github.com/user-attachments/assets/4aed94d9-2280-44f3-8257-785d4bb55586)
+
+---
 
 ## Features
 
