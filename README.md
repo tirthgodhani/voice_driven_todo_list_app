@@ -7,7 +7,7 @@ This app leverages speech-to-text technology to convert spoken words into text n
 
 ## Images
 ![image](https://github.com/user-attachments/assets/c69113f8-954c-47fc-ae6a-8f33dca8dbd6)
--Login Page
+#Login Page
 
 ![image](https://github.com/user-attachments/assets/257dfd5e-a398-4049-8ce7-d42385001659)
 -Home page
